@@ -271,7 +271,7 @@ Results on **NEU Steel Surface Defect Database** (6 classes, 1,800 images):
 | Macro AUC-ROC | **1.0000** |
 
 > Live inference confirmed on Hugging Face Spaces — Crazing: 80.6% HIGH,
-> Inclusion: 26.1% MODERATE (severity-proportional scoring validated).
+> Inclusion: 26.1% MODERATE (severity-proportional scoring validated). see [outputs](outputs)
 
 ---
 
